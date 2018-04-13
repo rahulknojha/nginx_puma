@@ -1,0 +1,22 @@
+2018-04-12 20:38:44 +0530: Rack app error handling request { GET / }
+#<RuntimeError: Missing `secret_key_base` for 'production' environment, set this value in `config/secrets.yml`>
+/home/rails/.rvm/gems/ruby-2.3.2/gems/railties-5.1.6/lib/rails/application.rb:510:in `validate_secret_key_config!'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/railties-5.1.6/lib/rails/application.rb:247:in `env_config'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/railties-5.1.6/lib/rails/engine.rb:692:in `build_request'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/railties-5.1.6/lib/rails/application.rb:518:in `build_request'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/railties-5.1.6/lib/rails/engine.rb:521:in `call'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/puma-3.11.3/lib/puma/configuration.rb:225:in `call'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/puma-3.11.3/lib/puma/server.rb:624:in `handle_request'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/puma-3.11.3/lib/puma/server.rb:438:in `process_client'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/puma-3.11.3/lib/puma/server.rb:302:in `block in run'
+/home/rails/.rvm/gems/ruby-2.3.2/gems/puma-3.11.3/lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+=== puma startup: 2018-04-12 20:39:00 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ====== puma startup: 2018-04-13 12:15:35 +0530 ===
+
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ====== puma startup: 2018-04-13 12:15:35 +0530 ===
+
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===

@@ -1,0 +1,33 @@
+=== puma startup: 2018-04-12 20:30:11 +0530 ===
+[25149] * Starting control server on unix:///tmp/puma-status-1523545211639-25149
+[25149] - Worker 3 (pid: 25166) booted, phase: 0
+[25149] - Worker 1 (pid: 25160) booted, phase: 0
+[25149] - Worker 2 (pid: 25164) booted, phase: 0
+[25149] - Worker 0 (pid: 25156) booted, phase: 0
+[25149] - Gracefully shutting down workers...
+[25149] === puma shutdown: 2018-04-12 20:32:15 +0530 ===
+[25149] - Goodbye!
+=== puma startup: 2018-04-12 20:32:19 +0530 ===
+[25787] * Starting control server on unix:///tmp/puma-status-1523545339771-25787
+[25787] - Worker 0 (pid: 25794) booted, phase: 0
+[25787] - Worker 1 (pid: 25798) booted, phase: 0
+[25787] - Worker 2 (pid: 25802) booted, phase: 0
+[25787] - Worker 3 (pid: 25806) booted, phase: 0
+[25787] - Gracefully shutting down workers...
+[25787] === puma shutdown: 2018-04-12 20:38:58 +0530 ===
+[25787] - Goodbye!
+=== puma startup: 2018-04-12 20:39:00 +0530 ===
+[28108] * Starting control server on unix:///tmp/puma-status-1523545740861-28108
+[28108] - Worker 2 (pid: 28124) booted, phase: 0
+[28108] - Worker 1 (pid: 28120) booted, phase: 0
+[28108] - Worker 0 (pid: 28116) booted, phase: 0
+[28108] - Worker 3 (pid: 28128) booted, phase: 0
+=== puma startup: 2018-04-13 12:15:35 +0530 ====== puma startup: 2018-04-13 12:15:35 +0530 ===
+
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
+=== puma startup: 2018-04-13 12:15:35 +0530 ===
