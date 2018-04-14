@@ -86,4 +86,4 @@ production:
   encoding: utf8
   pool: 5
   username: nginx_puma
-  password: <%= ENV['NGINX_PUMA_DATABASE_PASSWORD'] %>
+  password: rahul
